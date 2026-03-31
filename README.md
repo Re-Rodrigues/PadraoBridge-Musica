@@ -1,4 +1,5 @@
 # PadraoBridge-Musica
 
 Atividade Padrão Bridge
-Disciplina: Arquitetura e Projeto de Software
+
+#Disciplina: Arquitetura e Projeto de Software
